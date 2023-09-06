@@ -1,0 +1,11 @@
+@import "./pages/Home/index.scss";
+@import "./pages/MovieDetail/index.scss";
+@import "./components/Header/index.scss";
+@import "./components/MovieCard/index.scss";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
